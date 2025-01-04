@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kakeksugiono8.github.io/blackscatter/sitemap.xml
